@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+*.log
+npm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Build output
+/dist/
+
+# IDE
+/.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
